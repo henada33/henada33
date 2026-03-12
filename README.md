@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Meldrick Wee
+### Independent Software Consultant | Embedded Systems & Networking Expert
 
-<!--
-**henada33/henada33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a seasoned **Software Engineer** with over 8 years of experience in the embedded systems, networking, and wireless industries. I specialize in bridging the gap between hardware and software, creating robust PC-to-embedded interfaces and high-performance networking tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Skills
+
+- **Languages:** C, C++, JavaScript.
+- **Embedded Systems:** Linux Kernel Drivers, Embedded Applications, Firmware Update Tools.
+- **Networking:** TCP/IP, UDP, Wireless Routing, Firewall Implementation.
+- **Full-Stack Development:** Embedded Web Server Interfaces (C++/JavaScript), Server-side & Client-side UI.
+- **Windows Development:** PC-based Simulation, Debugging Tools, Driver Installation Applications.
+- **Specialized:** Computer Vision & Image Processing (C++).
+
+---
+
+### 🛠️ Key Project Highlights
+
+- **Hardware-In-The-Loop Simulation** - Developed a PC application to simulate hardware products, enabling remote software development and debugging.
+- **Embedded Web Architectures** - Re-architected network parameter configuration and implemented interactive web interfaces for industrial wireless products.
+- **Automated Firmware Deployment** - Created specialized tools for automated firmware updates and driver installations for USB-based development boards.
+- **Scientific Development Tools** - Actively developing custom software solutions for research and engineering applications.
+
+---
+
+### 📫 Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/meldrickwee](https://www.linkedin.com/in/meldrickwee/)
+- **Website:** [iedtech.com](http://iedtech.com)
+
+---
+
+*"Engineering the interface between logic and physical reality."*
